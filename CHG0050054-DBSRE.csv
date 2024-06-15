@@ -1,4 +1,4 @@
-﻿Servername,InstanceID,ServerType
+﻿servername,instanceid,servertype
 EUCEDRME5DB1,i-02d341e6259c028ec,DB
 EUCEDRME5DB2,i-0cb4f507ccec405af,DB
 EUCEDRME7DB1,i-0c68b362ea8dbe078,DB
